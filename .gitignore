@@ -1,6 +1,9 @@
 # Datos originales
 data/raw/spanish_houses.csv
 
+# Datos generados/intermedios
+data/processed/
+
 # Python
 __pycache__/
 *.pyc
