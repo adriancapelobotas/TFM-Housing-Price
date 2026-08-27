@@ -20,6 +20,4 @@ Desarrollar modelos de Machine Learning para predecir el precio de viviendas en 
 - NumPy
 - Scikit-learn
 - Matplotlib
-- XGBoost
-- SHAP
 - Visual Studio Code
